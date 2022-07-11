@@ -1,2 +1,2 @@
 # LeetCode-Contest-Solutions
-This repository contains solution for different LeetCode contest problems that I have attempted.
+This repository contains my solution attempt for some of the LeetCode contest problems.
